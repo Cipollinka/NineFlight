@@ -11,8 +11,8 @@ workflows:
         XCODE_SCHEME: "nine_flight" # <----
         BUNDLE_ID: "com.nineflight.app" # <----
         APP_STORE_APP_ID: 6738932184 # <----
-        APP_STORE_CONNECT_KEY_ID: "APP_STORE_CONNECT_KEY_IDENTIFIER" # <----
-        APP_STORE_CONNECT_ISSUER_ID: "APP_STORE_CONNECT_ISSUER_ID" # <----
+        APP_STORE_CONNECT_KEY_ID: "8N4KM58Y7X" # <----
+        APP_STORE_CONNECT_ISSUER_ID: "df2ec045-a162-407d-9afc-c525db867f18" # <----
         node: latest
         xcode: latest
         cocoapods: default
